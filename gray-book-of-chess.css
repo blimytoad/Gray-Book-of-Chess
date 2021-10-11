@@ -1,0 +1,22 @@
+h1{
+  font-size: 72px;
+
+  color:#333333;
+  font-family: "Gill Sans", Verdana, sans-serif;
+  }
+
+div{
+  display: table-cell;
+  width: 100vw;
+  height: 100vh;
+  vertical-align: middle;
+  text-align: center;
+}
+
+body{
+  background-color: #dddddd;
+}
+
+.button{
+  text-decoration: none;
+}
